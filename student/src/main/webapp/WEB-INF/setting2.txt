@@ -1,0 +1,3 @@
+# setting.txt
+class=웹풀스택개발과정
+period=6개월

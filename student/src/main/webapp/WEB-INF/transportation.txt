@@ -1,0 +1,4 @@
+# 샵은 주석 (이 파일은 프로퍼티스 파일임)
+horse=com.shopping.transport.HorseController
+car=com.shopping.transport.CarController
+airplane=com.shopping.transport.AirplaneController

@@ -1,0 +1,41 @@
+# 구현해야 할 목록들입니다.
+home=com.shopping.controller.HomeController
+# <멤버 섹션>
+meLogin=com.shopping.controller.member.MemberLoginController
+meLogout=com.shopping.controller.member.MemberLogoutController
+meInsert=com.shopping.controller.member.MemberInsertController
+meList=com.shopping.controller.member.MemberListController
+meDetail=com.shopping.controller.member.MemberDetailController
+meDelete=com.shopping.controller.member.MemberDeleteController
+# <게시물 섹션>
+boInsert=com.shopping.controller.board.BoardInsertController
+boList=com.shopping.controller.board.BoardListController
+boDetail=com.shopping.controller.board.BoardDetailController
+boUpdate=com.shopping.controller.board.BoardUpdateController
+boReply=com.shopping.controller.board.BoardReplyController
+boEmoticon=com.shopping.controller.board.BoardEmoticonController
+# <상품 섹션>
+prList=com.shopping.controller.product.ProductListController
+prInsert=com.shopping.controller.product.ProductInsertController
+prUpdate=com.shopping.controller.product.ProductUpdateController
+prDetail=com.shopping.controller.product.ProductDetailController
+prDelete=com.shopping.controller.product.ProductDeleteController
+# <댓글 섹션>
+cmList=com.shopping.controller.comment.CommentListController
+cmInsert=com.shopping.controller.comment.CommentInsertController
+cmDelete=com.shopping.controller.comment.CommentDeleteController
+# <뷰 섹션>
+vwList=com.shopping.controller.view.ViewListController
+vwExam01=com.shopping.controller.view.View01Controller
+vwExam02=com.shopping.controller.view.View02Controller
+vwExam03=com.shopping.controller.view.View03Controller
+vwExam04=com.shopping.controller.view.View04Controller
+vwExam05=com.shopping.controller.view.View05Controller
+# <쇼핑몰 섹션>
+maInsert=com.shopping.controller.mall.MallInsertController
+maUpdate=com.shopping.controller.mall.MallUpdateController
+maDelete=com.shopping.controller.mall.MallDeleteController
+maList=com.shopping.controller.mall.MallListController
+maDetail=com.shopping.controller.mall.MallDetailController
+maHistory=com.shopping.controller.mall.MallHistoryController
+maCalculate=com.shopping.controller.mall.MallCalculateController
